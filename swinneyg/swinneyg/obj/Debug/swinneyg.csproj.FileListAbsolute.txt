@@ -1,0 +1,6 @@
+c:\users\sree vishnu\documents\visual studio 2013\Projects\swinneyg\swinneyg\bin\swinneyg.dll.config
+c:\users\sree vishnu\documents\visual studio 2013\Projects\swinneyg\swinneyg\bin\swinneyg.dll
+c:\users\sree vishnu\documents\visual studio 2013\Projects\swinneyg\swinneyg\bin\swinneyg.pdb
+c:\users\sree vishnu\documents\visual studio 2013\Projects\swinneyg\swinneyg\obj\Debug\swinneyg.csprojResolveAssemblyReference.cache
+c:\users\sree vishnu\documents\visual studio 2013\Projects\swinneyg\swinneyg\obj\Debug\swinneyg.dll
+c:\users\sree vishnu\documents\visual studio 2013\Projects\swinneyg\swinneyg\obj\Debug\swinneyg.pdb
